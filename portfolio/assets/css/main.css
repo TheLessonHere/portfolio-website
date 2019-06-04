@@ -886,6 +886,10 @@ input, select, textarea {
 			padding: 0 0.75em 0 0;
 		}
 
+		    ul.icons li:first-child {
+				display: none;
+			}
+
 			ul.icons li:last-child {
 				padding-right: 0;
 			}
